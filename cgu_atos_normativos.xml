@@ -5,8 +5,19 @@
   <link>https://basedeconhecimento.cgu.gov.br/items/</link>
   <description>Atos normativos publicados pela Controladoria-Geral da União na comunidade Atos Normativos da Base de Conhecimento da CGU (basedeconhecimento.cgu.gov.br), em ordem cronológica inversa. Espécie normativa indicada na categoria de cada item.</description>
   <language>pt-br</language>
-  <lastBuildDate>Mon, 24 Aug 2026 10:50:39 -0300</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 07:42:28 -0300</lastBuildDate>
   <generator>cgu_coletor_multifeed.py</generator>
+  <item>
+    <title>Portaria Normativa n. 280, de 18 de agosto de 2026</title>
+    <link>https://basedeconhecimento.cgu.gov.br/items/2edda17c-2a2e-4cf2-b845-1c59cd34125b</link>
+    <guid isPermaLink="true">https://basedeconhecimento.cgu.gov.br/items/2edda17c-2a2e-4cf2-b845-1c59cd34125b</guid>
+    <pubDate>Tue, 18 Aug 2026 12:00:00 -0300</pubDate>
+    <description>[Portaria Normativa] Esta Portaria institui a Política de Mobilidade Interna da Controladoria-Geral da União - CGU + Conexão e disciplina os instrumentos de movimentação interna de servidores.</description>
+    <category domain="origem">CGU — Atos Normativos</category>
+    <category>Controladoria-Geral da União</category>
+    <category>CGU | Base de Conhecimento | Atos Normativos</category>
+    <category>Portaria Normativa</category>
+  </item>
   <item>
     <title>Portaria Normativa n. 278, de 28 de julho 2026</title>
     <link>https://basedeconhecimento.cgu.gov.br/items/b66744bc-5e21-4df8-a29d-b37d5648bccc</link>
@@ -1095,17 +1106,6 @@
     <category>Controladoria-Geral da União</category>
     <category>CGU | Base de Conhecimento | Atos Normativos</category>
     <category>Portaria Normativa</category>
-  </item>
-  <item>
-    <title>Portaria n. 3.053, de 23 de setembro de 2024 [Revogada]</title>
-    <link>https://basedeconhecimento.cgu.gov.br/items/3057625e-3267-4c21-b278-f69667d5978b</link>
-    <guid isPermaLink="true">https://basedeconhecimento.cgu.gov.br/items/3057625e-3267-4c21-b278-f69667d5978b</guid>
-    <pubDate>Mon, 23 Sep 2024 12:00:00 -0300</pubDate>
-    <description>[Portaria] A presente Portaria trata da designação de servidores para atuarem como representantes do Comitê Gerencial, no âmbito de suas Unidades Organizacionais, na ação estratégica de Segurança Corporativa.</description>
-    <category domain="origem">CGU — Atos Normativos</category>
-    <category>Controladoria-Geral da União</category>
-    <category>CGU | Base de Conhecimento | Atos Normativos</category>
-    <category>Portaria</category>
   </item>
 </channel>
 </rss>
