@@ -5,8 +5,19 @@
   <link>https://basedeconhecimento.cgu.gov.br/items/</link>
   <description>Atos normativos publicados pela Controladoria-Geral da União na comunidade Atos Normativos da Base de Conhecimento da CGU (basedeconhecimento.cgu.gov.br), em ordem cronológica inversa. Espécie normativa indicada na categoria de cada item.</description>
   <language>pt-br</language>
-  <lastBuildDate>Wed, 26 Aug 2026 07:14:17 -0300</lastBuildDate>
+  <lastBuildDate>Thu, 27 Aug 2026 12:44:51 -0300</lastBuildDate>
   <generator>cgu_coletor_multifeed.py</generator>
+  <item>
+    <title>Portaria Normativa GM/CGU n. 281, de 19 de agosto de 2026</title>
+    <link>https://basedeconhecimento.cgu.gov.br/items/7b318f8d-daa7-4596-98a9-70a551440f3f</link>
+    <guid isPermaLink="true">https://basedeconhecimento.cgu.gov.br/items/7b318f8d-daa7-4596-98a9-70a551440f3f</guid>
+    <pubDate>Wed, 19 Aug 2026 12:00:00 -0300</pubDate>
+    <description>[Portaria Normativa] Orienta tecnicamente os órgãos e entidades sujeitos ao Controle Interno do Poder Executivo Federal sobre a instauração e a organização da fase interna do processo de Tomada de Contas Especial.</description>
+    <category domain="origem">CGU — Atos Normativos</category>
+    <category>Controladoria-Geral da União</category>
+    <category>CGU | Base de Conhecimento | Atos Normativos</category>
+    <category>Portaria Normativa</category>
+  </item>
   <item>
     <title>Portaria Normativa n. 280, de 18 de agosto de 2026</title>
     <link>https://basedeconhecimento.cgu.gov.br/items/2edda17c-2a2e-4cf2-b845-1c59cd34125b</link>
@@ -1095,17 +1106,6 @@
     <category>Controladoria-Geral da União</category>
     <category>CGU | Base de Conhecimento | Atos Normativos</category>
     <category>Portaria</category>
-  </item>
-  <item>
-    <title>Portaria Normativa n. 176, de 30 de setembro de 2024</title>
-    <link>https://basedeconhecimento.cgu.gov.br/items/cacd5d2b-fea5-4f17-a6a2-d1b125a0729e</link>
-    <guid isPermaLink="true">https://basedeconhecimento.cgu.gov.br/items/cacd5d2b-fea5-4f17-a6a2-d1b125a0729e</guid>
-    <pubDate>Mon, 30 Sep 2024 12:00:00 -0300</pubDate>
-    <description>[Portaria Normativa] Esta Portaria aprova enunciados referentes à aplicação da Lei nº 12.527.</description>
-    <category domain="origem">CGU — Atos Normativos</category>
-    <category>Controladoria-Geral da União</category>
-    <category>CGU | Base de Conhecimento | Atos Normativos</category>
-    <category>Portaria Normativa</category>
   </item>
 </channel>
 </rss>
