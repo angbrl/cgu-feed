@@ -5,8 +5,19 @@
   <link>https://basedeconhecimento.cgu.gov.br/items/</link>
   <description>Manuais publicados pela Controladoria-Geral da União na comunidade Manuais da Base de Conhecimento da CGU (basedeconhecimento.cgu.gov.br), em ordem cronológica inversa. Fonte: Base de Conhecimento da CGU.</description>
   <language>pt-br</language>
-  <lastBuildDate>Thu, 03 Sep 2026 07:57:48 -0300</lastBuildDate>
+  <lastBuildDate>Thu, 03 Sep 2026 11:50:32 -0300</lastBuildDate>
   <generator>cgu_coletor_multifeed.py</generator>
+  <item>
+    <title>Ouvidoria na Prática - Triagem e reclassificação da manifestação - Volume 2</title>
+    <link>https://basedeconhecimento.cgu.gov.br/items/add83ec2-10b9-4853-96cd-22c5573057b6</link>
+    <guid isPermaLink="true">https://basedeconhecimento.cgu.gov.br/items/add83ec2-10b9-4853-96cd-22c5573057b6</guid>
+    <pubDate>Thu, 03 Sep 2026 12:00:00 -0300</pubDate>
+    <description>[Manual] Este volume é o segundo da coleção "Ouvidoria na Prática", iniciativa da Controladoria-Geral da União (CGU) criada para oferecer suporte às unidades do Sistema de Ouvidoria do Poder Executivo Federal – SisOuv no tratamento das manifestações recebidas dos cidadãos, de forma simples, objetiva e aplicada à rotina de trabalho. O volume aborda a triagem e a reclassificação das manifestações, orientando as equipes de ouvidoria na identificação correta dos tipos de manifestação, na análise do conteúdo do relato e nas situações que costumam gerar dúvida na classificação.</description>
+    <category domain="origem">CGU — Manuais</category>
+    <category>Controladoria-Geral da União</category>
+    <category>CGU | Base de Conhecimento | Manuais</category>
+    <category>Manual</category>
+  </item>
   <item>
     <title>Manual SAMPI - Grande Vulto (Cadastro sob responsabilidade do órgão avaliador)</title>
     <link>https://basedeconhecimento.cgu.gov.br/items/3c87852b-3239-4c00-ad17-e2f6854eb95f</link>
@@ -1091,17 +1102,6 @@
     <guid isPermaLink="true">https://basedeconhecimento.cgu.gov.br/items/fb67857d-1f67-4557-a8b5-ca27c6d55296</guid>
     <pubDate>Fri, 01 Jan 2021 12:00:00 -0300</pubDate>
     <description>[Manual] Este Manual de Avaliação das Ouvidorias do Poder Executivo Federal (MAO) é um guia para o desenvolvimento da atividade de avaliação de ouvidorias, tendo como perspectiva a evolução dos métodos e práticas empregados por meio da acumulação de experiência na execução de avaliação das ouvidorias federais pela Coordenação-Geral de Orientação e Acompanhamento de Ouvidorias (CGOuv).</description>
-    <category domain="origem">CGU — Manuais</category>
-    <category>Controladoria-Geral da União</category>
-    <category>CGU | Base de Conhecimento | Manuais</category>
-    <category>Manual</category>
-  </item>
-  <item>
-    <title>Manual: Rol de Responsáveis</title>
-    <link>https://basedeconhecimento.cgu.gov.br/items/7b0e87d7-f07d-4e0b-ae14-5605c1d4571c</link>
-    <guid isPermaLink="true">https://basedeconhecimento.cgu.gov.br/items/7b0e87d7-f07d-4e0b-ae14-5605c1d4571c</guid>
-    <pubDate>Wed, 16 Dec 2020 12:00:00 -0300</pubDate>
-    <description>[Manual] O Cadastro eletrônico do Rol de Responsáveis configura-se como o instrumento por meio do qual são registrados os agentes públicos federais (titulares, substitutos e interinos), que exercem alguma das naturezas de responsabilidade estabelecidas em normativo emitido pelo TCU, por solicitação da CGU ou pelos Gestores, em casos específicos. Esse manual aponta o passo a passo e as responsabilidades por esse cadastramento.</description>
     <category domain="origem">CGU — Manuais</category>
     <category>Controladoria-Geral da União</category>
     <category>CGU | Base de Conhecimento | Manuais</category>
