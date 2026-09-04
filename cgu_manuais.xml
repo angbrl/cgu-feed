@@ -5,7 +5,7 @@
   <link>https://basedeconhecimento.cgu.gov.br/items/</link>
   <description>Manuais publicados pela Controladoria-Geral da União na comunidade Manuais da Base de Conhecimento da CGU (basedeconhecimento.cgu.gov.br), em ordem cronológica inversa. Fonte: Base de Conhecimento da CGU.</description>
   <language>pt-br</language>
-  <lastBuildDate>Thu, 03 Sep 2026 11:50:32 -0300</lastBuildDate>
+  <lastBuildDate>Fri, 04 Sep 2026 08:02:47 -0300</lastBuildDate>
   <generator>cgu_coletor_multifeed.py</generator>
   <item>
     <title>Ouvidoria na Prática - Triagem e reclassificação da manifestação - Volume 2</title>
@@ -13,6 +13,17 @@
     <guid isPermaLink="true">https://basedeconhecimento.cgu.gov.br/items/add83ec2-10b9-4853-96cd-22c5573057b6</guid>
     <pubDate>Thu, 03 Sep 2026 12:00:00 -0300</pubDate>
     <description>[Manual] Este volume é o segundo da coleção "Ouvidoria na Prática", iniciativa da Controladoria-Geral da União (CGU) criada para oferecer suporte às unidades do Sistema de Ouvidoria do Poder Executivo Federal – SisOuv no tratamento das manifestações recebidas dos cidadãos, de forma simples, objetiva e aplicada à rotina de trabalho. O volume aborda a triagem e a reclassificação das manifestações, orientando as equipes de ouvidoria na identificação correta dos tipos de manifestação, na análise do conteúdo do relato e nas situações que costumam gerar dúvida na classificação.</description>
+    <category domain="origem">CGU — Manuais</category>
+    <category>Controladoria-Geral da União</category>
+    <category>CGU | Base de Conhecimento | Manuais</category>
+    <category>Manual</category>
+  </item>
+  <item>
+    <title>Manual de Contabilização de Benefícios SFC - 2025 [Atualização do Capítulo 9]</title>
+    <link>https://basedeconhecimento.cgu.gov.br/items/5119955f-3b7a-47e7-a2b8-483dac678752</link>
+    <guid isPermaLink="true">https://basedeconhecimento.cgu.gov.br/items/5119955f-3b7a-47e7-a2b8-483dac678752</guid>
+    <pubDate>Wed, 02 Sep 2026 12:00:00 -0300</pubDate>
+    <description>[Manual] O presente manual tem como base normativa a Portaria Normativa CGU Nº 108, de 1º de dezembro de 2023 - em vigor a partir de 02/01/2024, complementada pela Portaria Normativa CGU Nº 131, de 20 de maio de 2024, que revogaram a Portaria n.º 1.976, de 20 de agosto de 2021, e instituíram os parâmetros para contabilização, registro e divulgação dos benefícios decorrentes das ações promovidas pela Controladoria-Geral da União.</description>
     <category domain="origem">CGU — Manuais</category>
     <category>Controladoria-Geral da União</category>
     <category>CGU | Base de Conhecimento | Manuais</category>
@@ -1091,17 +1102,6 @@
     <guid isPermaLink="true">https://basedeconhecimento.cgu.gov.br/items/e13402d5-376b-437c-a2c2-ac2d67847067</guid>
     <pubDate>Fri, 01 Jan 2021 12:00:00 -0300</pubDate>
     <description>[Manual] O Manual tem por objetivo consolidar e tornar público o posicionamento da Controladoria-Geral da União sobre a aplicação da Lei nº 8.112/1990.</description>
-    <category domain="origem">CGU — Manuais</category>
-    <category>Controladoria-Geral da União</category>
-    <category>CGU | Base de Conhecimento | Manuais</category>
-    <category>Manual</category>
-  </item>
-  <item>
-    <title>Manual de Avaliação das Ouvidorias do Poder Executivo Federal [1ª edição]</title>
-    <link>https://basedeconhecimento.cgu.gov.br/items/fb67857d-1f67-4557-a8b5-ca27c6d55296</link>
-    <guid isPermaLink="true">https://basedeconhecimento.cgu.gov.br/items/fb67857d-1f67-4557-a8b5-ca27c6d55296</guid>
-    <pubDate>Fri, 01 Jan 2021 12:00:00 -0300</pubDate>
-    <description>[Manual] Este Manual de Avaliação das Ouvidorias do Poder Executivo Federal (MAO) é um guia para o desenvolvimento da atividade de avaliação de ouvidorias, tendo como perspectiva a evolução dos métodos e práticas empregados por meio da acumulação de experiência na execução de avaliação das ouvidorias federais pela Coordenação-Geral de Orientação e Acompanhamento de Ouvidorias (CGOuv).</description>
     <category domain="origem">CGU — Manuais</category>
     <category>Controladoria-Geral da União</category>
     <category>CGU | Base de Conhecimento | Manuais</category>
