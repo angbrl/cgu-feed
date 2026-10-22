@@ -7,7 +7,33 @@
     <language>pt-br</language>
     <generator>CGU RSS 4.0-api</generator>
     <atom:link href="https://angbrl.github.io/cgu-feed/cgu_relatorios.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 20 Oct 2026 12:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 12:00:00 -0300</lastBuildDate>
+    <item>
+      <title>RELATÓRIO CGU Nº 1913077</title>
+      <link>https://eaud.cgu.gov.br/relatorio/1937925</link>
+      <guid isPermaLink="true">https://eaud.cgu.gov.br/relatorio/1937925</guid>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 -0300</pubDate>
+      <description>Resumo não informado pela API.</description>
+      <content:encoded>&lt;h1&gt;RELATÓRIO CGU Nº 1913077&lt;/h1&gt;
+&lt;h2&gt;Avaliação da Qualidade da oferta dos serviços de Assistência Estudantil Universidade Federal do Rural Rio de Janeiro - UFFRJ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Órgão:&lt;/strong&gt; Controladoria-Geral da União&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tipo de Serviço:&lt;/strong&gt; Avaliação&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unidade(s) Auditada(s):&lt;/strong&gt; UFRRJ&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Localidade(s):&lt;/strong&gt; Seropédica/RJ&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data de publicação:&lt;/strong&gt; 21/10/2026&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Local de publicação:&lt;/strong&gt; CGU ‒ Relatórios&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Resumo&lt;/h2&gt;
+&lt;p&gt;Resumo não informado pela API.&lt;/p&gt;</content:encoded>
+      <category domain="origem">CGU — Relatórios</category>
+      <category>Controladoria-Geral da União</category>
+      <category>CGU | e-AUD | Relatórios de Auditoria</category>
+      <category>Relatório de Auditoria</category>
+      <category>Avaliação</category>
+      <category>UFRRJ</category>
+      <category>Seropédica/RJ</category>
+    </item>
     <item>
       <title>RELATÓRIO CGU Nº 1699245</title>
       <link>https://eaud.cgu.gov.br/relatorio/1700335</link>
@@ -2579,32 +2605,6 @@
       <category>Avaliação</category>
       <category>SERPRO</category>
       <category>Brasília/DF</category>
-    </item>
-    <item>
-      <title>RELATÓRIO CGU Nº 1967091</title>
-      <link>https://eaud.cgu.gov.br/relatorio/1968167</link>
-      <guid isPermaLink="true">https://eaud.cgu.gov.br/relatorio/1968167</guid>
-      <pubDate>Mon, 14 Sep 2026 12:00:00 -0300</pubDate>
-      <description>Após a realização dos testes definidos no escopo do trabalho, não foram constatadas situações que caracterizassem risco à contratação pretendida pelo INCRA-SR/PI.</description>
-      <content:encoded>&lt;h1&gt;RELATÓRIO CGU Nº 1967091&lt;/h1&gt;
-&lt;h2&gt;Análise da Ata do Pregão Número &amp;#x27;90001/2025&amp;#x27; da UASG &amp;#x27;373044 - SUPERINTEND.ESTADUAL DO PIAUI-INCRA/SR-24 (TERESINA/PI)&amp;#x27;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Órgão:&lt;/strong&gt; Controladoria-Geral da União&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tipo de Serviço:&lt;/strong&gt; Avaliação&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Unidade(s) Auditada(s):&lt;/strong&gt; INCRA&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Localidade(s):&lt;/strong&gt; Piauí&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Data de publicação:&lt;/strong&gt; 14/09/2026&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Local de publicação:&lt;/strong&gt; CGU ‒ Relatórios&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Resumo&lt;/h2&gt;
-&lt;p&gt;Após a realização dos testes definidos no escopo do trabalho, não foram constatadas situações que caracterizassem risco à contratação pretendida pelo INCRA-SR/PI.&lt;/p&gt;</content:encoded>
-      <category domain="origem">CGU — Relatórios</category>
-      <category>Controladoria-Geral da União</category>
-      <category>CGU | e-AUD | Relatórios de Auditoria</category>
-      <category>Relatório de Auditoria</category>
-      <category>Avaliação</category>
-      <category>INCRA</category>
-      <category>Piauí</category>
     </item>
   </channel>
 </rss>
