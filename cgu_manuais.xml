@@ -7,7 +7,32 @@
     <language>pt-br</language>
     <generator>CGU RSS 4.0-api</generator>
     <atom:link href="https://angbrl.github.io/cgu-feed/cgu_manuais.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 20 Oct 2026 12:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:00:00 -0300</lastBuildDate>
+    <item>
+      <title>MANUAL CGU ‒ REFERENCIAL DE AUDITORIA PARA ADAPTAÇÃO E RESILIÊNCIA CLIMÁTICA</title>
+      <link>https://basedeconhecimento.cgu.gov.br/handle/1/23447</link>
+      <guid isPermaLink="true">https://basedeconhecimento.cgu.gov.br/handle/1/23447</guid>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 -0300</pubDate>
+      <description>A Controladoria-Geral da União (CGU) e o Tribunal de Contas da União (TCU) elaboraram, de forma colaborativa, o Referencial de Auditoria para Adaptação e Resiliência Climática, com o objetivo de fortalecer a incorporação da perspectiva climática nas ações de controle e nas políticas públicas brasileiras. Estruturado em cinco eixos analíticos aplicáveis a diferentes áreas governamentais, o documento oferece metodologia, critérios e questões de auditoria para avaliar a contribuição de programas e políticas públicas para a adaptação às mudanças climáticas e o fortalecimento da resiliência. Desenvolvido de forma participativa com especialistas, gestores, auditores e representantes da sociedade civil, o Referencial representa um avanço na atuação do controle público frente à crise climática, contribuindo para a alocação eficiente de recursos, a redução de riscos e a proteção das populações mais vulneráveis.</description>
+      <content:encoded>&lt;h1&gt;MANUAL CGU ‒ REFERENCIAL DE AUDITORIA PARA ADAPTAÇÃO E RESILIÊNCIA CLIMÁTICA&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Órgão:&lt;/strong&gt; Controladoria-Geral da União; Tribunal de Contas da União&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tipo:&lt;/strong&gt; Manual&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Área temática:&lt;/strong&gt; Auditoria Interna&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Assunto:&lt;/strong&gt; Auditoria Interna&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data do documento:&lt;/strong&gt; 2026&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data de publicação:&lt;/strong&gt; 06/11/2026&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Local de publicação:&lt;/strong&gt; CGU ‒ Base de Conhecimento&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Resumo&lt;/h2&gt;
+&lt;p&gt;A Controladoria-Geral da União (CGU) e o Tribunal de Contas da União (TCU) elaboraram, de forma colaborativa, o Referencial de Auditoria para Adaptação e Resiliência Climática, com o objetivo de fortalecer a incorporação da perspectiva climática nas ações de controle e nas políticas públicas brasileiras. Estruturado em cinco eixos analíticos aplicáveis a diferentes áreas governamentais, o documento oferece metodologia, critérios e questões de auditoria para avaliar a contribuição de programas e políticas públicas para a adaptação às mudanças climáticas e o fortalecimento da resiliência. Desenvolvido de forma participativa com especialistas, gestores, auditores e representantes da sociedade civil, o Referencial representa um avanço na atuação do controle público frente à crise climática, contribuindo para a alocação eficiente de recursos, a redução de riscos e a proteção das populações mais vulneráveis.&lt;/p&gt;</content:encoded>
+      <category domain="origem">CGU — Manuais</category>
+      <category>Controladoria-Geral da União</category>
+      <category>CGU | Base de Conhecimento | Manuais</category>
+      <category>Manual</category>
+      <category>Tribunal de Contas da União</category>
+      <category>Auditoria Interna</category>
+    </item>
     <item>
       <title>MANUAL CGU ‒ OUVIDORIA NA PRÁTICA ‒ COMPLEMENTAÇÃO DE INFORMAÇÕES (VOLUME 3)</title>
       <link>https://basedeconhecimento.cgu.gov.br/handle/1/23401</link>
@@ -2651,35 +2676,6 @@
       <category>Manual</category>
       <category>Prevenção da Corrupção, Integridade e Transparência Pública</category>
       <category>ASSUNTO / Prevenção da Corrupção, Integridade e Transparência Pública / Fortalecimento da Gestão Pública (FGP)</category>
-    </item>
-    <item>
-      <title>MANUAL CGU ‒ SISTEMA PGD: NOVIDADES DA VERSÃO 1.6.12</title>
-      <link>https://basedeconhecimento.cgu.gov.br/handle/1/11063</link>
-      <guid isPermaLink="true">https://basedeconhecimento.cgu.gov.br/handle/1/11063</guid>
-      <pubDate>Mon, 04 Jan 2021 12:00:00 -0300</pubDate>
-      <description>O documento apresenta as principais funcionalidades da versão 1.6.12 do Sistema PGD, em produção a partir de janeiro de 2021.</description>
-      <content:encoded>&lt;h1&gt;MANUAL CGU ‒ SISTEMA PGD: NOVIDADES DA VERSÃO 1.6.12&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Órgão:&lt;/strong&gt; Controladoria-Geral da União / Secretaria-Executiva / Coordenação-Geral de Projetos (Eproj)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tipo:&lt;/strong&gt; Manual&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Área temática:&lt;/strong&gt; Governança Interna&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Assunto:&lt;/strong&gt; ASSUNTO / Governança Interna / Programa de Gestão de Demandas (PGD)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Data do documento:&lt;/strong&gt; 01/2021&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Data de publicação:&lt;/strong&gt; 04/01/2021&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Local de publicação:&lt;/strong&gt; CGU ‒ Base de Conhecimento&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Resumo&lt;/h2&gt;
-&lt;p&gt;O documento apresenta as principais funcionalidades da versão 1.6.12 do Sistema PGD, em produção a partir de janeiro de 2021.&lt;/p&gt;
-&lt;h2&gt;Informações adicionais&lt;/h2&gt;
-&lt;p&gt;Clique no link disponível no campo &amp;quot;Publicações Relacionadas&amp;quot; para acessar as demais versões&lt;/p&gt;</content:encoded>
-      <category domain="origem">CGU — Manuais</category>
-      <category>Controladoria-Geral da União</category>
-      <category>CGU | Base de Conhecimento | Manuais</category>
-      <category>Manual</category>
-      <category>Secretaria-Executiva</category>
-      <category>Coordenação-Geral de Projetos (Eproj)</category>
-      <category>Governança Interna</category>
-      <category>ASSUNTO / Governança Interna / Programa de Gestão de Demandas (PGD)</category>
     </item>
     <item>
       <title>MANUAL CGU ‒ PERGUNTAS &amp; RESPOSTAS – PORTARIA CGU Nº 2.737/2017</title>
